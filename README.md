@@ -36,11 +36,12 @@ This is a real-time PDF broadcast application built using React for the frontend
     # Install backend dependencies
     
     ```bash
-    cd backend
+   
+  cd backend
     npm install
    # Install frontend dependencies
     ```bash
-    cd ../frontend
+   cd ../frontend
     npm install
 
 3. Run the Application
