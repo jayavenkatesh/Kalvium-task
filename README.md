@@ -33,15 +33,13 @@ This is a real-time PDF broadcast application built using React for the frontend
    git clone https://github.com/jayavenkatesh/kalvium-task
     cd kalvium-task
 2.Install Dependencies:
-    # Install backend dependencies
     
-    ```bash
-   
-  cd backend
+# Install backend dependencies
+    cd backend
     npm install
-   # Install frontend dependencies
-    ```bash
-   cd ../frontend
+  # Install frontend dependencies
+  
+     cd ../frontend
     npm install
 
 3. Run the Application
